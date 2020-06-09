@@ -1,1 +1,0 @@
-# ERICA_EmbeddedOS
